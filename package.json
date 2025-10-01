@@ -1,0 +1,8 @@
+{
+  "name": "cors-player-proxy",
+  "version": "1.0.0",
+  "description": "HLS Player with Vercel CORS Proxy",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
